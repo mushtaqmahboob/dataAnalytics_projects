@@ -1,0 +1,10 @@
+A practice project for hands-on AWS practice
+Used Athena for analytics, S3 for data storage and Quick Sight for visualization
+
+
+Step1: Create a S3 bucket and pull the data into it from data source (CSV here)
+Step2: Create a DataBase  in a new Query in Athena to pull your data into Athena from S3. The Columns should match the columns from S3
+        select the data source location in Athena
+        
+Step 3: Integrate Athena to QuickSight
+
