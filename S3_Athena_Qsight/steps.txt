@@ -7,4 +7,7 @@ Step2: Create a DataBase  in a new Query in Athena to pull your data into Athena
         select the data source location in Athena
         
 Step 3: Integrate Athena to QuickSight
-
+         QuickSight: New Dataset source from Athena-> the name -> validate SSL -> use SPICE for snapshot of sata
+         click visualize. Add visuals and graphs types (select X-Axis and Y-Axis) and thats it. 
+         
+Simple and neat project to just get started in AWS analytics and understanding the integration of services.
